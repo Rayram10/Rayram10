@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Rayram10/Rayram10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I’m Ray
 
-Here are some ideas to get you started:
+Georgia Tech CS student building real things and shipping projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about turning ideas into working products — especially where data, backend systems, and real-world use cases meet.
+
+What I’m Building Right Now
+
+## ⚽ Darkhorse  
+**A deployed World Cup Upset Predictor — Hacklytics Winner 🏆**
+
+🌐 Live Demo: https://dark-horse-world-cup.vercel.app/
+
+Darkhorse predicts upset risk in World Cup matches using probabilistic modeling and rating systems.
