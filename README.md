@@ -4,7 +4,7 @@ Hey, I’m Ray
 Georgia Tech CS student building real things and shipping projects.
 
 ## Darkhorse  
-**A deployed World Cup Upset Predictor — Hacklytics Winner 🏆**
+**A deployed World Cup Upset Predictor**
 
 🌐 Live Demo: https://dark-horse-world-cup.vercel.app/
 
